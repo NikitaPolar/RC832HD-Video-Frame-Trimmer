@@ -6,7 +6,6 @@ This Python script provides a solution for efficiently processing videos recorde
 
 **Features:**
 - Removes frames mostly matching a user-specified blue color.
-- Preserves the original frames and frames per second (FPS).
 - Calculates and displays progress and estimated time remaining (ETA).
 
 **How it Works:**

@@ -10,7 +10,7 @@ This Python script provides a solution for efficiently processing videos recorde
 
 **How it Works:**
 
-This script processes a video file, analyzes each frame, and identifies frames that are predominantly blue. These frames are removed, leaving a clean video with the same original FPS. The script calculates and displays progress, allowing users to track the completion status and ETA.
+This script processes a video file, analyzes each frame, and identifies frames that are predominantly blue. These frames are removed, leaving a clean video with the same original FPS.
 
 **Getting Started:**
 - Clone or download the repository.
